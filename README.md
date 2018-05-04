@@ -1,2 +1,2 @@
 # TF_tutorial
-learning practice for tensor flow
+learning to use tensor flow and some practice
